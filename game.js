@@ -169,7 +169,7 @@
   }
 
   // ---------------- Player draw ----------------
-  const SPRITE_SCALE = 3;
+  const SPRITE_SCALE = 1.2;
 
   function drawPlayer() {
     let img;
@@ -259,4 +259,4 @@
     requestAnimationFrame(loop);
     startScareScheduler();
   });
-})();v
+})();
