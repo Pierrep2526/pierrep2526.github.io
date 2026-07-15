@@ -1,1 +1,1 @@
-# randomgamesthing.github.io
+# random games thing
